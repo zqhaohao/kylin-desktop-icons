@@ -82,6 +82,20 @@ bash hide-desktop-icons.sh check     # 环境自检（排查不生效原因）
 - 移除桌面图标：`bash install-desktop.sh remove`。
 - 完全还原到未安装状态：执行上面两项即可，本工具不改动系统文件。
 
+### 赞助
+
+<a name="赞助"></a>
+
+如果这个工具帮你省了事，欢迎随手支持一下，帮我继续更新和维护更多麒麟桌面工具。仓库右上角的 **Sponsor** 按钮会跳到这里。
+
+赞助完全自愿，**不设固定金额**——一杯柠檬水、一包烟的钱就好，量力而行，一点心意就足够。
+
+| 支付宝 | 微信 |
+|:---:|:---:|
+| <img src="assets/sponsors/alipay-placeholder.png" width="220" alt="支付宝收款码"> | <img src="assets/sponsors/wechat-placeholder.png" width="220" alt="微信收款码"> |
+
+> 收款码是作者本人的支付宝 / 微信个人码，扫码后自行填写任意金额即可。没有最低门槛，力所能及就好。
+
 ### 反馈与贡献
 
 欢迎反馈你的机型/版本与 `check` 输出，帮助完善适配：
@@ -173,6 +187,18 @@ No. Your own `.desktop` shortcuts on the desktop stay visible; this tool only to
 - Restore icons: `bash hide-desktop-icons.sh restore` or double-click the restore icon.
 - Remove desktop icons: `bash install-desktop.sh remove`.
 - Full cleanup: do both above — the tool never modifies system files.
+
+### Sponsor
+
+If this tool saved you time, feel free to show your support and help me keep updating and maintaining more Kylin desktop tools. The **Sponsor** button on the repository page leads here.
+
+Sponsorship is entirely optional with **no fixed amount** — the price of a lemonade or a pack of cigarettes is plenty. Give what you can; every little bit of goodwill counts.
+
+| Alipay | WeChat Pay |
+|:---:|:---:|
+| <img src="assets/sponsors/alipay-placeholder.png" width="220" alt="Alipay QR code"> | <img src="assets/sponsors/wechat-placeholder.png" width="220" alt="WeChat Pay QR code"> |
+
+> These are the author's personal Alipay / WeChat Pay QR codes. Scan and enter any amount you like — there is no minimum, just give what feels right.
 
 ### Feedback & contribution
 
